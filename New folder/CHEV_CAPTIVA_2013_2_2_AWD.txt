@@ -1,0 +1,29 @@
+Partial: T
+Starting address of partial file: 0x00010000
+Partial file size: 0x001F0000
+Eprom size: 0x00220000
+
+File Version: 
+Name of the parent process: FLASH_0391
+Protocol version: 6.012 - 1.033
+File date: 12/11/2017
+File time: 17:34.23
+Brand: CHEVROLET US/EU/SAM
+Model: CAPTIVA SERIES 2011
+Type: 2.2L 16V VCDi 4WD 135kW/182HP DCM3.7
+Protocol: FLASH_0391 OPEL/CHEVROLET DELPHI DCM3.7
+Hardware Nr.: 01804720AB
+Software Nr.: 01805DB6AA
+Hardware date: 
+Software date: 
+VIN: MMMCD26YJDH302910
+Software Version: 806
+Spare part number: 
+Engine code: Z20H
+Hardware Version: 
+Software Upgrade Nr.: 01805EF7AA
+Unique identification number: 
+System type: DCM37
+Client code: C8750
+File type: ECU
+Hardware type: NewGenius
